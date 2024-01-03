@@ -1,0 +1,58 @@
+# Unity-specific ignores
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# Mono auto generated files
+/[Aa]ssets/[Rr]eal[Ff]iles/
+/[Aa]ssets/[Rr]eal[Ff]iles[Bb]rowser/
+
+# Unity3D asset database file
+*.pidb.meta
+
+# Unity3D memory dump file
+*.pdb.meta
+
+# Unity3D shader cache
+/[Tt]emp/[Ss]hader[Dd]ata/
+
+# Unity3D cache files
+/[Uu]nity[Cc]ache/
+
+# Unity3D build asset folders
+/[Bb]uild/[Ww]eb/[Pp]layers/
+/[Bb]uild/[Ww]eb/[Ss]treamingAssets/
+
+# Visual Studio Code project folder
+.vscode/
+
+# Rider project folder
+.idea/
+
+# User-specific ignores
+/[Ll]ibrary/[Ss]criptAssemblies/
+/[Ll]ibrary/[Cc]aches/
+
+# Obsolete in Unity 2019.3 and later
+/[Tt]emp/[Vv]ideo/
+
+# Auto-generated folder on OS X
+.DS_Store
+
+# Thumbnails
+/[Tt]umbs.db
+/[Tt]humbs.db.meta
+
+# macOS folder attributes
+/[Ff]ile[Ss]ystem/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+
+# Windows shortcuts
+*.lnk
